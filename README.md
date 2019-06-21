@@ -1,5 +1,7 @@
 # NSSR
+
 Network Search Space Reduction Algorithm
+
 COPYRIGHT 2017-2019 Kiri Choi
 
 Network Search Space Reduction Algorithm uses qualitative comparison of steady-state values from combinatorial perturbation studies to filter potential model topologies.
