@@ -10,4 +10,4 @@ The algorithm ca be executed by simply running `main.py`. To change the algorith
 
 ## Acknowledgements
 
-This work hs supported by NIH grants GM123032-01A1. The content is solely the responsibility of the author and does not necessarily represent the views of the National Institutes of Health.
+This work was supported by the National Institute of General Medical Sciences of the National Institutes of Health under awards R01-GM123032. The content is solely the responsibility of the author and does not necessarily represent the views of the National Institutes of Health.
